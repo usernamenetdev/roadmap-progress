@@ -43,3 +43,4 @@
 25. Async, await
 26. Threading
 27. Event, delegate
+28. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
