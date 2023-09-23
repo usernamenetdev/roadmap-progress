@@ -46,3 +46,4 @@
   28. Try-Catch-Finally
   29. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
   30. Коллекции
+  31. using, работа с внешними ресурсами
