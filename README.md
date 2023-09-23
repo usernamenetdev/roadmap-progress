@@ -10,7 +10,7 @@ ____
 1. [C# Essental](https://github.com/usernamenetdev/roadmap-progress/blob/main/dotnet-progress)  
     a) ADO.NET  
     b) EF  
-    c) ASP.NET
+    c) ASP.NET  
     d) [GoF patterns](https://github.com/usernamenetdev/roadmap-progress/blob/main/patterns-progress)
    
 3. [SQL](https://github.com/usernamenetdev/roadmap-progress/blob/main/sql-progress)  
