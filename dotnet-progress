@@ -49,4 +49,4 @@
   29. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
   30. Коллекции
     30.1. Переопределение hash для dictionary
-  31. Переопределение операторов
+  31. operator, переопределение операторов
