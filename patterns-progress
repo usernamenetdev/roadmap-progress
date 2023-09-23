@@ -1,30 +1,30 @@
 Порождающие:
-1. Abstract Factory - порождение семейств взаимодействующих продуктов
-2. Builder - пошаговое построение сложных продуктов
-3. Factory Method - основа всех порождающих паттернов
-4. Prototype - клонирование объектов
-5. Singleton - гарантирует наличие только одного экземпляра класса
+  1. Abstract Factory - порождение семейств взаимодействующих продуктов
+  2. Builder - пошаговое построение сложных продуктов
+  3. Factory Method - основа всех порождающих паттернов
+  4. Prototype - клонирование объектов
+  5. Singleton - гарантирует наличие только одного экземпляра класса
 
 Структурные:
-1. Adapter - адаптирует несовместимые интерфейсы
-2. Bridge - отделение абстракции от реализации
-3. Composite - построение деревьев
-4. Decorator - добавление объекту новых состояний и поведений
-5. Facade - предоставление высокоуровнего интерфейса для доступа к подсистеме
+  1. Adapter - адаптирует несовместимые интерфейсы
+  2. Bridge - отделение абстракции от реализации
+  3. Composite - построение деревьев
+  4. Decorator - добавление объекту новых состояний и поведений
+  5. Facade - предоставление высокоуровнего интерфейса для доступа к подсистеме
 
 Roadmap:
-6. Flyweight
-7. Proxy
-
-Поведенческие:
-1. Chain of Responsibility
-2. Command
-3. Interpreter
-4. Iterator
-5. Mediator
-6. Memento
-7. Observer
-8. State
-9. Strategy
-10. Template Method
-11. Visitor
+    6. Flyweight
+    7. Proxy
+  
+  Поведенческие:
+    1. Chain of Responsibility
+    2. Command
+    3. Interpreter
+    4. Iterator
+    5. Mediator
+    6. Memento
+    7. Observer
+    8. State
+    9. Strategy
+    10. Template Method
+    11. Visitor
