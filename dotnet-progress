@@ -48,3 +48,4 @@
     28.1. using (IDisposable), работа с внешними ресурсами
   29. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
   30. Коллекции
+    30.1. Переопределение hash для dictionary
