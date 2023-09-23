@@ -8,6 +8,7 @@
   6. SOLID
   7. DRY
   8. KISS
+  9. CQRS
 
 Практика:
   1. Методы Convert, Parse и TryParse
