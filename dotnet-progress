@@ -45,3 +45,4 @@
   27. Event, delegate
   28. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
   29. Коллекции
+  30. Try-Catch-Finally
