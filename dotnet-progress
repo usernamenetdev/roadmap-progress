@@ -42,6 +42,7 @@
   24. Generic, его ограничения
   25. Async, await
   26. Threading
+    26.1. lock
   27. Event, delegate
   28. Try-Catch-Finally
     28.1. using (IDisposable), работа с внешними ресурсами
