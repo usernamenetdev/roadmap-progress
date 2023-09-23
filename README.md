@@ -1,24 +1,30 @@
 # My roadmap progress
 
+Для структурирования и журналирования своего опыта разработки, я создал этот репозиторий. В нем я буду описывать технологии, которыми я владею и которым собираюсь обучиться.
+
+Для удобства, все навыки владения той или иной технологией задокументированы в соответствующих файлах. Некоторые названия технологий кликабельны и ведут на нужный файл.
+
 ### Current stack: 
-### Backend:
-1. C# Essental  
+____
+#### Backend:
+1. [C# Essental](https://github.com/usernamenetdev/roadmap-progress/blob/main/dotnet-progress)  
     a) ADO.NET  
     b) EF  
     c) ASP.NET
+    d) [GoF patterns](https://github.com/usernamenetdev/roadmap-progress/blob/main/patterns-progress)
    
-3. SQL  
+3. [SQL](https://github.com/usernamenetdev/roadmap-progress/blob/main/sql-progress)  
     а) MySQL  
     b) MSSQL  
   
-  ### Front-End:
+  #### Front-End:
 1. HTML5  
 2. CSS3  
     a) SASS  
 3. Bootstrap5  
 4. jQuery UI  
   
-  ### Дополнительно:
+  #### Дополнительно:
 1. Git  
     a) Версионирование  
     b) Работа в команде  
@@ -29,4 +35,6 @@
     b) Состояний  
     c) Последовательности  
 
-### Roadmap: gRPC, TDD & Unit Testing, TypeScript, Docker, K8S, Nginx, Redis, RabbitMQ
+### Roadmap: 
+____
+gRPC, TDD & Unit Testing, TypeScript, Docker, K8S, Nginx, Redis, RabbitMQ
