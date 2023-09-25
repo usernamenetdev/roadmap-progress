@@ -40,7 +40,7 @@
   22. Структуры
   23. Box-Unbox
   24. Generic, его ограничения
-  25. Async, await
+  25. Async, await, Task
   26. Threading
     26.1. lock
   27. Event, delegate
