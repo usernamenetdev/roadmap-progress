@@ -9,7 +9,7 @@
 ### Current stack: 
 ____
 #### Backend:
-1. [C# Essental](https://github.com/usernamenetdev/roadmap-progress/blob/main/dotnet-progress)  
+1. [C# Essental](https://github.com/usernamenetdev/roadmap-progress/blob/main/csharp-progress)  
     a) ADO.NET  
     b) EF  
     c) ASP.NET  
