@@ -43,7 +43,7 @@
   25. Async, await, Task
   26. Threading
     26.1. lock
-  27. Event, delegate
+  27. Event (add, remove), delegate
   28. Try-Catch-Finally
     28.1. using (IDisposable), работа с внешними ресурсами
   29. Exception, throw, дерево throw, специализированные типы: ArgumentOutOfRangeException, NullReferenceException, ArgumentException, etc.
