@@ -9,6 +9,7 @@
   7. DRY
   8. KISS
   9. CQRS
+  10. Dependency Injection
 
 Практика:
   1. Методы Convert, Parse и TryParse
